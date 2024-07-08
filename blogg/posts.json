@@ -1,0 +1,51 @@
+{
+    "travel": [
+        {
+         "title":  "Exploring the World: My Travel Adventures",
+         "image": "images/travel9.jpg",
+           "content": "Traveling has always been a passion of mine. Whether it's exploring  the bustling streets of Nairobi to the serene beaches of Mombasa to hiking through the serene landscapes of Mt.Kenya my adventures have been nothing short of spectacular a, each journey brings new experiences and lessons. It allows me to explore vibrant cities, relax in scenic landscapes, and immerse myself in different cultures. In this blog post, I’ll share some highlights from my travels, my most memorable travel stories and offer tips on how to make the most of your adventures.",
+            "date": "29 June 2024",
+             "url": "pages/travel-adventures.html"
+        },
+        {
+            "title": "Coding on the Go: How I Stay Productive While Traveling",
+            "image": "images/image1.avif",
+            "content": "Balancing work and travel can be challenging, but it's not impossible. As a developer, I've found ways to stay productive and keep up with my coding projects even while exploring new places. Here are some tips and strategies that have helped me manage my work while traveling.", 
+            "date": "29 June 2024",
+         "url": "pages/coding-on-the-go.html"
+
+       }
+    ],
+    "health": [
+        {
+            "title": "Staying Fit as a Developer: Tips for a Healthy Lifestyle",
+            "image": "images/food9.jpg",
+            "content": "As developers, we often spend long hours sitting in front of a computer, which can take a toll on our health. It's crucial to find ways to stay active and maintain a healthy lifestyle. Here are some tips that have helped me stay fit as a developer.",
+            "date": "30 June 2024",
+            "url": "pages/staying-fit.html"
+        },
+        {
+            "title": "Balancing Sedentary Work with an Active Lifestyle",
+            "image": "images/health2.webp",
+            "content": "Working as a developer often means spending long hours sitting, which can lead to a sedentary lifestyle. However, it's possible to balance work with physical activity and stay healthy. Here's how I manage to stay active despite having a desk job.",
+            "date": "30 June 2024",
+            "url": "pages/balancing-work.html"
+        }
+    ],
+    "creative": [
+        {
+            "title": "Embracing Creativity: My Hobbies and Projects",
+            "image": "images/creative9.jpg",
+            "content": "Creativity is an essential part of my life both personally and professionally. Engaging in various hobbies not only provides a relaxing escape but also enhances my skills as a developer. In this post, I explore some of my hobbies and projects that keep my creative juices flowing.",
+            "date": "01 July 2024",
+            "url": "pages/creative-hobbies.html"
+        },
+        {
+            "title": "How My Creative Hobbies Enhance My Work as a Developer",
+            "image": "images/creative12.jpg",
+            "content": "While coding is a highly technical skill, creativity plays a significant role in problem-solving and innovation. My hobbies in painting, writing, and photography have profoundly influenced my work as a developer. Here's how these creative pursuits have shaped my approach to coding.",
+            "date": "02 July 2024",
+            "url": "pages/creative-enhance.html"
+        }
+    ]
+}
